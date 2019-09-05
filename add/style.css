@@ -1,0 +1,17 @@
+form{
+text-align: center;
+    margin: 20% 10%;
+    border: solid 1px;
+    box-shadow: 5px 15px 12px #b7b3b3;
+}    
+.form-control {
+    display: inline;
+    width: 70%;
+	    margin-top: 20px;
+}
+label{
+    margin-left: 15px;
+    float: left;
+    width: 125px;
+	margin-top: 20px;
+}
